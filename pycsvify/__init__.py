@@ -1,4 +1,4 @@
-name = "example_pkg"
+name = "pycvsify"
 
 import os
 def parseCSV(location, seperator=","):

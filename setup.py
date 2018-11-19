@@ -4,13 +4,13 @@ with open("README.md", "r") as rm:
     long_description = rm.read()
 
 setuptools.setup(
-    name="pycsv-ify",
+    name="pycsvify",
     version="0.0.1",
     author="Wessel Meijer",
     description="A Python library that allows easy CSV to Dict conversion",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/wesselmeijer/pycsv-ify",
+    url="https://github.com/wesselmeijer/pycsvify",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

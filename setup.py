@@ -5,7 +5,7 @@ with open("README.md", "r") as rm:
 
 setuptools.setup(
     name="pycsvify",
-    version="0.0.1",
+    version="0.0.3",
     author="Wessel Meijer",
     description="A Python library that allows easy CSV to Dict conversion",
     long_description=long_description,

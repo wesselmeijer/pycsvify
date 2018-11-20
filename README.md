@@ -1,4 +1,4 @@
-# PyCSVify
+# PyCSVify [![Build Status](https://travis-ci.org/wesselmeijer/pycsvify.svg?branch=master)](https://travis-ci.org/wesselmeijer/pycsvify)
 
 ## A Python library that allows easy conversion from CSV to Dict and back!
 
